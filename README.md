@@ -2,7 +2,7 @@
 - 👀 I'm interested in Software Quality Assurance and Manual Testing
 - 🌱 I'm currently learning Automation Testing with Selenium and JavaScript
 - 💞️ I'm looking to collaborate on QA projects and testing initiatives
-- 📫 How to reach me: [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/jefry-kurniawan-7443272aa/)) | [Email](mailto:kjefry525@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jefry-kurniawan-7443272aa/) | [Email](mailto:kjefry525@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can find bugs even in my morning coffee routine!
 
