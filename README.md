@@ -1,6 +1,3 @@
----
-
-```markdown
 # 👋 Hi, I'm Jefry Kurniawan
 
 Manual QA Tester | Learning Automation | Based in Magetan, ID  
