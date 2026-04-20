@@ -33,8 +33,9 @@ Semua project automation di bawah ini hasil self-learning — saya bangun untuk 
 
 **Quality Assurance (Remote) — Samwi**  
 *Jul 2025 – Aug 2025 | London, UK (Remote)*
-- Manual testing platform e-learning: buat test case, report bug, kerja bareng tim dev
+- Manual testing platform e-learning: buat test case, report bug, kolaborasi sama tim dev
 - Belajar Git & workflow Agile di tim distributed
+- Eksplorasi basic web automation pakai Cypress untuk support testing flow
 
 **Intern Full Stack Programmer — PT. Cipta Karya Inovasi Teknologi**  
 *Mei 2024 – Agu 2024 | Malang*
