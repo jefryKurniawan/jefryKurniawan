@@ -1,97 +1,105 @@
 # 👋 Hi, I'm Jefry Kurniawan
 
-Manual QA Tester | Learning Automation | Based in Magetan, ID  
-📧 kjefry525@gmail.com | [LinkedIn](https://www.linkedin.com/in/jefry-kurniawan-7443272aa/)
-
-> Fokus: quality software lewat testing yang teliti + belajar automation step by step.
-
----
-
-## 🔍 Tentang Saya
-
-Manual QA dengan pengalaman testing aplikasi ERP (web & mobile), saat ini lagi aktif belajar automation testing secara mandiri.
-
-✅ Yang sedang saya dalami:
-- Web automation pakai **Playwright + TypeScript**
-- API testing dengan **Postman + Newman**
-- Mobile testing pakai **Appium + WebdriverIO**
-- Dasar CI/CD: GitHub Actions, Podman
-- Setup test framework yang rapi & mudah di-maintain
-
-Semua project automation di bawah ini hasil self-learning — saya bangun untuk latihan dan portofolio.
+**IT Professional | Linux & Database Enthusiast | Problem Solver**  
+📧 kjefry525@gmail.com | 📍 Magetan, Jawa Timur, Indonesia  
+🔗 [LinkedIn](https://linkedin.com/in/jefry-kurniawan-7443272aa)
 
 ---
 
-## 💼 Pengalaman Kerja
+## 🔍 About Me
 
-**Quality Control Software — BIIS Corp**  
-*Feb 2025 – Present | Surakarta*
-- Manual testing aplikasi ERP: Sales Order, PO, Inventory, Financial Accounting
-- Bikin & maintain test case, jalankan regression/smoke/sanity test tiap sprint
-- Kolaborasi dengan dev & product team di Agile Scrum: daily standup, sprint planning, UAT
-- Report bug, ikut client meeting, dan handle training software untuk user
+IT professional dengan pengalaman dalam **system maintenance**, **technical support**, dan **application development**. Passionate dalam troubleshooting, Linux system administration, database management, dan memberikan solusi teknis yang efektif untuk kebutuhan bisnis.
 
-**Quality Assurance (Remote) — Samwi**  
-*Jul 2025 – Aug 2025 | London, UK (Remote)*
-- Manual testing platform e-learning: buat test case, report bug, kolaborasi sama tim dev
-- Belajar Git & workflow Agile di tim distributed
-- Eksplorasi basic web automation pakai Cypress untuk support testing flow
+✅ **What I Do:**
+- 🔧 System Maintenance & Technical Support
+- 🐧 Linux Server Administration (Debian, Fedora - Daily Driver)
+- 💾 Database Management & SQL Query (MySQL, PostgreSQL)
+- 🌐 Web Application Development & Maintenance
+- 📊 ERP System Support (Sales, Inventory, Accounting)
+- 👥 User Training & Technical Documentation
 
-**Intern Full Stack Programmer — PT. Cipta Karya Inovasi Teknologi**  
+---
+
+## 💼 Experience
+
+### **Quality Assurance / IT Support** — BIIS Corp  
+*Feb 2025 – Mar 2026 | Surakarta*
+
+- Maintenance dan troubleshooting aplikasi ERP (web & mobile)
+- Database management (MySQL/PostgreSQL) untuk modul Sales, Inventory, Accounting
+- Technical support dan training user (MD Mall, Koperasi PLN)
+- Investigasi error menggunakan SQL queries dan browser console logs
+- Backup/recovery database dan dokumentasi teknis
+
+### **QA & Technical Support (Remote)** — Samwi  
+*Jul 2025 – Aug 2025 | London, UK*
+
+- Maintenance dan testing platform e-learning
+- Troubleshooting bug dan koordinasi dengan tim development
+- Monitoring sistem dan pelaporan insiden teknis
+
+### **Full Stack Developer Intern** — PT. Cipta Karya  
 *Mei 2024 – Agu 2024 | Malang*
-- Develop web app pakai Node.js, React, TypeScript, Firebase, Midtrans
-- Ikut code review dan implementasi fitur bareng tim
 
----
-
-## 🧪 Portofolio Automation
-
-### 🔹 Web Automation — SauceDemo (Playwright)
-Testing flow e-commerce: login, pilih produk, checkout. Pakai POM, support multi-browser, ada HTML report & video recording.
-
-🔗 [LinkedIn Post](https://www.linkedin.com/posts/jefry-kurniawan-7443272aa_sdet-qaautomation-playwright-activity-7449859752882307073-_7GC)  
-📁 [GitHub Repo](https://github.com/jefryKurniawan/sauceDemo-Portofolio)
-
-### 🔹 API Testing — Postman + Newman
-Collection untuk testing CRUD API, pakai automated assertions + environment variables. Bisa jalan via CLI pakai Newman untuk CI.
-
-🔗 [LinkedIn Post](https://www.linkedin.com/posts/jefry-kurniawan-7443272aa_github-jefrykurniawanapitestingportofolio-jefryk-activity-7449340523204567040-HdMp)  
-📁 [GitHub Repo](https://github.com/jefryKurniawan/apiTestingPortofolio-JefryK)
-
-### 🔹 API Automation — JavaScript/TypeScript
-REST API automation dengan JavaScript/TypeScript: request chaining, dynamic data handling, dan automated validation.
-
-📁 [GitHub Repo](https://github.com/jefryKurniawan/apiAutomation-portofolio)
-
-### 🔹 Mobile E2E Testing — Appium + WebdriverIO
-Automation untuk Android/iOS: setup real device & emulator, locator strategies, screenshot on failure, BDD-style assertions.
-
-🔗 [LinkedIn Post](https://www.linkedin.com/posts/jefry-kurniawan-7443272aa_mobiletesting-appium-webdriverio-activity-7450108457875058688-6zpi)  
-📁 [GitHub Repo](https://github.com/jefryKurniawan/mobileSDET-Portofolio)
+- Development web app (Node.js, React, TypeScript, Firebase)
+- Integrasi payment gateway (Midtrans)
+- Troubleshooting database connectivity issues
 
 ---
 
 ## 🛠️ Tech Stack
 
-```
-Languages    : JavaScript, TypeScript, SQL, Python (basic)
-Web Testing  : Playwright, Selenium (learning), Lighthouse
-API Testing  : Postman, Newman, REST concepts
-Mobile       : Appium, WebdriverIO
-Frontend     : React.js, HTML/CSS
-Backend/DB   : Node.js, Firebase, MySQL
-Tools        : Git, GitHub Actions, Podman, Linux (Fedora), Figma (basic)
-Methodology  : Agile/Scrum, Test Case Design, UAT, Bug Tracking
-```
+**Systems:** Linux (Debian, Fedora), Windows, Basic Networking  
+**Database:** MySQL, PostgreSQL, Firebase  
+**Backend:** Node.js, Laravel, PHP, JavaScript  
+**Frontend:** React.js, Next.js, HTML/CSS, Tailwind CSS  
+**Tools:** Git, GitHub, Postman, Linux CLI, Browser DevTools  
+**Infrastructure:** GitHub Actions, Podman, Server Setup  
+**Support:** JIRA, Freshdesk, Microsoft Office
 
-## 💬 Let's Connect
+---
 
-Saya terbuka untuk:
-- Kolaborasi project QA / automation
-- Mentorship (saya masih belajar, tapi semangat!)
-- Opportunity: Junior SDET / QA Automation / Hybrid QA roles
+## 📂 Projects
 
-📍 Magetan, Jawa Timur | Open to Remote / Relocation  
-📩 [LinkedIn](https://www.linkedin.com/in/jefry-kurniawan-7443272aa/) | [Email](mailto:kjefry525@gmail.com)
-```
+### 🔹 **ERP System Maintenance**
+Maintenance dan support sistem ERP dengan modul Sales Order, Inventory, dan Financial Accounting. Handle troubleshooting, database queries, dan user training.
 
+### 🔹 **Payment Gateway Integration**
+Integrasi dan troubleshooting Midtrans payment gateway untuk aplikasi web. Handle webhook, API integration, dan error handling.
+
+### 🔹 **Linux Home Lab**
+Self-hosted applications, Linux server setup (Debian/Fedora), dan basic system administration experimentation.
+
+### 🔹 **Database Management**
+MySQL/PostgreSQL database management untuk aplikasi production, termasuk query optimization dan data troubleshooting.
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Data Fundamentals (2024)
+- Product Management - Rakamin Academy (2024)
+- Python Fundamental for Data Science - DQLab (2024)
+- Blockchain & Fintech Masterclass - CFTE (2025)
+- SQL (Basic) - HackerRank (2023)
+- JavaScript & React - Dicoding/Progate
+
+---
+
+## 💬 Open For
+
+Saya terbuka untuk berbagai kesempatan di bidang IT:
+- ✅ IT Staff / Technical Support
+- ✅ System Administrator
+- ✅ Database Administrator
+- ✅ Application Support
+- ✅ Web Developer / Maintainer
+- ✅ ERP Support Specialist
+
+📍 **Location:** Magetan, Jawa Timur  
+✈️ **Availability:** Open to Remote / On-site / Relocation  
+📩 **Contact:** [LinkedIn](https://linkedin.com/in/jefry-kurniawan-7443272aa) | kjefry525@gmail.com
+
+---
+
+> "Versatile IT professional ready to tackle technical challenges. From Linux server management to database troubleshooting and user support - I'm here to keep your systems running smoothly."
