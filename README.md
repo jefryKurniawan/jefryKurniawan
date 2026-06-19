@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jefry Kurniawan
 
-**IT Professional | Linux & Database Enthusiast | Problem Solver**  
+**IT Generalist | Linux & Database Enthusiast | Technical Problem Solver**  
 📧 kjefry525@gmail.com | 📍 Magetan, Jawa Timur, Indonesia  
 🔗 [LinkedIn](https://linkedin.com/in/jefry-kurniawan-7443272aa)
 
@@ -8,98 +8,52 @@
 
 ## 🔍 About Me
 
-IT professional dengan pengalaman dalam **system maintenance**, **technical support**, dan **application development**. Passionate dalam troubleshooting, Linux system administration, database management, dan memberikan solusi teknis yang efektif untuk kebutuhan bisnis.
+I am a versatile IT professional who thrives on solving real-world technical problems. I don't just write code; I focus on **keeping systems running smoothly, untangling database messes, and bridging the gap between complex technology and everyday business needs.** 
 
-✅ **What I Do:**
-- 🔧 System Maintenance & Technical Support
-- 🐧 Linux Server Administration (Debian, Fedora - Daily Driver)
-- 💾 Database Management & SQL Query (MySQL, PostgreSQL)
-- 🌐 Web Application Development & Maintenance
-- 📊 ERP System Support (Sales, Inventory, Accounting)
-- 👥 User Training & Technical Documentation
+Whether it's managing Linux servers via CLI, writing SQL queries to investigate data anomalies, troubleshooting network issues, or maintaining web applications, I enjoy being the "go-to" person for technical support and system maintenance. I believe in practical solutions, continuous learning, and getting my hands dirty in the terminal.
 
 ---
 
-## 💼 Experience
+## 🎯 What I Do & Focus Areas
 
-### **Quality Assurance / IT Support** — BIIS Corp  
-*Feb 2025 – Mar 2026 | Surakarta*
-
-- Maintenance dan troubleshooting aplikasi ERP (web & mobile)
-- Database management (MySQL/PostgreSQL) untuk modul Sales, Inventory, Accounting
-- Technical support dan training user (MD Mall, Koperasi PLN)
-- Investigasi error menggunakan SQL queries dan browser console logs
-- Backup/recovery database dan dokumentasi teknis
-
-### **QA & Technical Support (Remote)** — Samwi  
-*Jul 2025 – Aug 2025 | London, UK*
-
-- Maintenance dan testing platform e-learning
-- Troubleshooting bug dan koordinasi dengan tim development
-- Monitoring sistem dan pelaporan insiden teknis
-
-### **Full Stack Developer Intern** — PT. Cipta Karya  
-*Mei 2024 – Agu 2024 | Malang*
-
-- Development web app (Node.js, React, TypeScript, Firebase)
-- Integrasi payment gateway (Midtrans)
-- Troubleshooting database connectivity issues
+- 🐧 **Linux System Administration:** Daily driver of Debian/Fedora. Comfortable with CLI, server setup, log analysis, and basic networking.
+- 💾 **Database Management:** Writing SQL queries, troubleshooting data inconsistencies, and managing MySQL/PostgreSQL databases.
+- 🔧 **Technical Support & Troubleshooting:** Investigating system errors, reading server/browser logs, and resolving technical issues for end-users.
+- 🌐 **Web Application Maintenance:** Full-stack understanding (Node.js, Laravel, React) to debug, maintain, and deploy internal tools or web apps.
+- 🏠 **Home Labbing:** Experimenting with self-hosted apps, CI/CD pipelines (GitHub Actions), and containerization (Podman).
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Systems:** Linux (Debian, Fedora), Windows, Basic Networking  
-**Database:** MySQL, PostgreSQL, Firebase  
-**Backend:** Node.js, Laravel, PHP, JavaScript  
-**Frontend:** React.js, Next.js, HTML/CSS, Tailwind CSS  
-**Tools:** Git, GitHub, Postman, Linux CLI, Browser DevTools  
-**Infrastructure:** GitHub Actions, Podman, Server Setup  
-**Support:** JIRA, Freshdesk, Microsoft Office
+| Category | Technologies |
+| :--- | :--- |
+| **Operating Systems** | Linux (Debian, Fedora - Daily Driver), Windows |
+| **Databases** | MySQL, PostgreSQL, Firebase |
+| **Backend / Scripting** | Node.js, PHP (Laravel), Python (Basic), JavaScript |
+| **Frontend** | React.js, Next.js, HTML/CSS, Tailwind CSS |
+| **Tools & DevOps** | Git, GitHub Actions, Podman, Postman, Linux CLI |
+| **Support & Tracking** | JIRA, Freshdesk, Browser DevTools, Log Analysis |
 
 ---
 
-## 📂 Projects
+## 📜 Certifications & Continuous Learning
 
-### 🔹 **ERP System Maintenance**
-Maintenance dan support sistem ERP dengan modul Sales Order, Inventory, dan Financial Accounting. Handle troubleshooting, database queries, dan user training.
-
-### 🔹 **Payment Gateway Integration**
-Integrasi dan troubleshooting Midtrans payment gateway untuk aplikasi web. Handle webhook, API integration, dan error handling.
-
-### 🔹 **Linux Home Lab**
-Self-hosted applications, Linux server setup (Debian/Fedora), dan basic system administration experimentation.
-
-### 🔹 **Database Management**
-MySQL/PostgreSQL database management untuk aplikasi production, termasuk query optimization dan data troubleshooting.
+Always exploring new technologies to solve problems better:
+- ☁️ **Microsoft Azure Data Fundamentals**
+- 🐍 **Python Fundamental for Data Science**
+- 📊 **SQL (Basic)** - HackerRank
+- 🏦 **Blockchain & Fintech Masterclass** (CFTE)
+- ⚛️ **JavaScript & React Development** (Dicoding/Progate)
 
 ---
 
-## 📜 Certifications
+## 📫 Let's Connect
 
-- Microsoft Azure Data Fundamentals (2024)
-- Product Management - Rakamin Academy (2024)
-- Python Fundamental for Data Science - DQLab (2024)
-- Blockchain & Fintech Masterclass - CFTE (2025)
-- SQL (Basic) - HackerRank (2023)
-- JavaScript & React - Dicoding/Progate
+I'm always open to discussing IT infrastructure, Linux tinkering, database optimization, or new opportunities in **IT Support, System Administration, and Technical Operations**.
 
----
-
-## 💬 Open For
-
-Saya terbuka untuk berbagai kesempatan di bidang IT:
-- ✅ IT Staff / Technical Support
-- ✅ System Administrator
-- ✅ Database Administrator
-- ✅ Application Support
-- ✅ Web Developer / Maintainer
-- ✅ ERP Support Specialist
-
-📍 **Location:** Magetan, Jawa Timur  
-✈️ **Availability:** Open to Remote / On-site / Relocation  
+📍 **Based in Magetan, Jawa Timur** | ✈️ **Open to Remote / On-site / Relocation**  
 📩 **Contact:** [LinkedIn](https://linkedin.com/in/jefry-kurniawan-7443272aa) | kjefry525@gmail.com
 
 ---
-
-> "Versatile IT professional ready to tackle technical challenges. From Linux server management to database troubleshooting and user support - I'm here to keep your systems running smoothly."
+> *"Fokus pada solusi teknis yang praktis. Siap menjaga sistem Anda tetap berjalan dan menyelesaikan masalah yang ada."*
